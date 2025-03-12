@@ -1,2 +1,6 @@
 Hello world!
+<<<<<<< HEAD
 3333333
+=======
+QWERTY
+>>>>>>> parent of 9f5f974 (11111)
